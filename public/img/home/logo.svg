@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="166.33" height="60" viewBox="0 0 166.33 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="213.333" height="60"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.347" y1="-0.006" x2="0.548" y2="0.943" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1040c"/>
+      <stop offset="0.951" stop-color="#fc4f4f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.868" y1="0.131" x2="-0.105" y2="0.571" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0073e6"/>
+      <stop offset="1" stop-color="#00a7ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.756" y2="0.959" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3bde05"/>
+      <stop offset="1" stop-color="#05b713"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.958" y1="0.077" x2="0.174" y2="0.851" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd0"/>
+      <stop offset="1" stop-color="#f1a304"/>
+    </linearGradient>
+    <clipPath id="clip-logo">
+      <rect width="166.33" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <g id="Artboard_1" data-name="Artboard – 1" clip-path="url(#clip-path)">
+      <g id="Group_30039" data-name="Group 30039" transform="translate(-10 -10)">
+        <rect id="Rectangle_15921" data-name="Rectangle 15921" width="80" height="80" fill="none"/>
+        <g id="Group_30027" data-name="Group 30027" transform="translate(10 10.002)">
+          <path id="Path_172" data-name="Path 172" d="M6.55,36.425a29.982,29.982,0,0,0,39.208-.22A24.25,24.25,0,0,1,12.987,14.012c0-.133,0-.263,0-.4V13.55a13,13,0,0,1,2.23-7.25A23.228,23.228,0,0,0,3.44,33.338a30.457,30.457,0,0,0,3.11,3.087Z" transform="translate(3.966 16.385)" fill="url(#linear-gradient)"/>
+          <path id="Path_173" data-name="Path 173" d="M8.23,6.548a29.982,29.982,0,0,0,.22,39.208A24.243,24.243,0,0,1,30.639,12.985c.133,0,.263-.008.4-.008H31.1a13,13,0,0,1,7.243,2.238A23.228,23.228,0,0,0,11.317,3.438,30.457,30.457,0,0,0,8.23,6.548Z" transform="translate(-1.042 3.968)" fill="url(#linear-gradient-2)"/>
+          <path id="Path_174" data-name="Path 174" d="M42.633,8.229a29.982,29.982,0,0,0-39.208.22,24.25,24.25,0,0,1,32.77,22.19V31.1a13,13,0,0,1-2.242,7.248A23.225,23.225,0,0,0,45.742,11.316a30.458,30.458,0,0,0-3.108-3.087Z" transform="translate(6.85 -1.041)" fill="url(#linear-gradient-3)"/>
+          <path id="Path_175" data-name="Path 175" d="M36.423,42.632A29.982,29.982,0,0,0,36.2,3.424a24.25,24.25,0,0,1-22.19,32.77h-.462a13,13,0,0,1-7.243-2.242,23.225,23.225,0,0,0,27.032,11.78,30.458,30.458,0,0,0,3.087-3.108Z" transform="translate(16.388 6.849)" fill="url(#linear-gradient-4)"/>
+        </g>
+        <rect id="Rectangle_15922" data-name="Rectangle 15922" width="240" height="80" fill="none"/>
+      </g>
+    </g>
+    <text id="Sự_kiện" data-name="Sự kiện" transform="translate(70 40)" fill="#212121" font-size="28" font-family="GoogleSans-Bold, Google Sans" font-weight="700"><tspan x="0" y="0">Sự kiện</tspan></text>
+  </g>
+</svg>

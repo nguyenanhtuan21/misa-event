@@ -1,0 +1,60 @@
+/* #region global */
+
+.ms-main-content {
+    font-family: 'GoogleSans-Regular', Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #393a3d
+}
+
+.sticky {
+    position: fixed;
+    background: #fff;
+    width: 100%;
+    height: 60px;
+    z-index: 999;
+}
+
+.common-title {
+    font-family: 'googlesans bold';
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 24px;
+}
+
+.section-temp {
+    padding: 50px 0;
+}
+
+.img-responsive,
+.thumbnail>img,
+.thumbnail a>img,
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-upper {
+    text-transform: uppercase;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.text-left {
+    text-align: left;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+/* #endregion */
