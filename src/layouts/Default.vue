@@ -6,7 +6,7 @@
           <div class="col-md-12">
             <div class="logo-ctn">
               <a href="/">
-                <img src="/img/home/logo.svg" alt="AMIS Sự kiện" />
+                <img src="/img/home/logo.svg" alt="AMIS Sự kiện đây là dòng để test" />
               </a>
             </div>
           </div>
